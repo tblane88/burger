@@ -1,0 +1,29 @@
+#burger-Pic {
+    width: 500px;
+    height: 300px;
+    border-radius: 15px;
+}
+#page-body {
+    background-color: #e7df6b;
+    border-radius: 15px;
+}
+
+#toEat {
+    background-color: green;
+    padding: 15px;
+    border-radius: 15px;
+    
+}
+
+#eaten {
+    padding: 15px;
+    border-radius: 15px;
+}
+
+body {
+    font-family: 'Comfortaa', cursive;
+}
+
+h1 {
+    font-weight: bold;
+}
